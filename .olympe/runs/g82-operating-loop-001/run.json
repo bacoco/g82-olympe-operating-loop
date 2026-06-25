@@ -1,0 +1,7 @@
+{
+  "schema": "olympe-g82-operating-loop/v1",
+  "run_id": "g82-operating-loop-001",
+  "issue_number": 1,
+  "intention": "Build a public launch dashboard proving the Olympe operating loop end to end.",
+  "status": "implementation-branch-ready"
+}
